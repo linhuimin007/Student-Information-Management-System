@@ -1,0 +1,6 @@
+John Smith,18,Male,A
+Mary Johnson,20,Female,B
+Huimin Lin,19,Female,C
+James Gibson,21,Male,A
+Tom Tristan,17,Male,B
+Zhewei Yuan,22,Female,C
