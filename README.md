@@ -20,7 +20,7 @@ The Student Information Management System is a simple Graphical User Interface (
 ### Running
 
 1. Clone this repository to your local machine.
-2. In the command-line terminal, navigate to the project folder containing `main.py`.
+2. In the command-line terminal, navigate to the project folder containing `student_manager.py`.
 3. Run the following command to launch the application:
 
 
